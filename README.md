@@ -25,6 +25,6 @@ Tools > Board Part Number > Generic STM32F030C6Tx
 
 Tools > Set Upload method > serial
 
-install 
+if Your board doesn't work Read "Persians_manual_PDF" 
 
 
